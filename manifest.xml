@@ -4,4 +4,5 @@
  <default remote="origin" revision="main"/>
  <project name="Linux_app" path="app"/>
  <project name="Linux_driver" path="driver"/>
+ <project name="Linux_SDK" path="SDK"/>
 </manifest>
