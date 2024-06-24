@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
- <remote fetch="ssh://git@github.com:23Nero" name="origin"/>
- <default remote="origin" revision="master"/>
+ <remote fetch="https://github.com/23Nero" name="origin"/>
+ <default remote="origin" revision="main"/>
  <project name="Linux_app" path="app"/>
  <project name="Linux_driver" path="driver"/>
 </manifest>
